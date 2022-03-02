@@ -9,7 +9,8 @@ Immunology), Professor Jonathan Manton
 (Dept. Electrical and Electronic Engineering) and Professor William Heath 
 (Dept. Microbiology and Immunology), all at The University of Melbourne. 
 Some data (not included in this repository) and advice was also provided by
-Professor Stefan Hoehme at Leipzig University. 
+Professor Stefan Hoehme at Leipzig University. All code in this repository 
+was authored by me.
 
 Not all of the code written as part of this project has been included in this 
 repository, and no data has been included. 
