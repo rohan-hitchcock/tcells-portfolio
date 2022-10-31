@@ -19,7 +19,7 @@ repository, and no data has been included.
 - `sinusoid_mapping`: this module is concerned with approximating the sinusoids 
 using a connected network of curves, and extracting the displacements of cells 
 moving along these curves (i.e. looking at the distance along the curve between 
-to points rather than the straight line distance). It takes microscope imaging 
+two points rather than the straight line distance). It takes microscope imaging 
 data after it has been analysed by Imaris (a program that works directly with 
 the output of the microscope). Components can be used individually, but the 
 main entry point is `sinusoid_mapping.process`
